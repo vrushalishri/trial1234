@@ -8,6 +8,9 @@ public class str
 		System.out.println("welcome");
 		System.out.println("welcome");
 		System.out.println("welcome");
+		
+		System.out.println("welcome to aspire");
+		System.out.println("This is my new car");
 	}	
 	
 
